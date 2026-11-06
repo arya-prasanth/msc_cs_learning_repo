@@ -192,8 +192,7 @@ msc-learning-repository/
 │   ├── CSDA403-Viva-Voce-Preparation/
 │   └── CSDA404-Main-Project/
 │
-├── CSTAR/              ⭐ All CSTAR club activities
-├── Practice-Programs/
+├── CSTAR/              
 ├── Mini-Projects/
 ├── Notes/
 └── README.md
@@ -210,7 +209,7 @@ Each subject folder will contain its own `README.md`, source code, assignments, 
 | Programming Languages | C, Java, Python, SQL, PL/SQL |
 | Data & Analytics | Pandas, NumPy, Matplotlib, Power BI, Tableau, Excel |
 | Machine Learning / AI | Scikit-learn, Deep Learning frameworks, Generative AI tools |
-| Web / Full Stack | HTML, CSS, JavaScript and full stack frameworks |
+| Web / Full Stack | HTML, CSS, JavaScript and Full Stack frameworks |
 | Operating Systems | Linux |
 | Dev Tools | Git, GitHub, Visual Studio Code, Jupyter Notebook |
 | Design | Figma |
@@ -233,7 +232,7 @@ Each subject folder will contain its own `README.md`, source code, assignments, 
 ## 🎓 About Me
 - 🎓 M.Sc. Computer Science (Data Analytics), Rajagiri College of Social Sciences (2026–2028)
 - 🎓 BCA, Christ Nagar College (2022–2025)
-- 🎓 DCA, [C-DIT](https://cdit.kerala.gov.in/) (2022–2023)
+- 🎓 DCA, C-DIT (2022–2023)
 - 💼 Previously worked as a Process Associate at Prochant India
 - 📍 Kochi, Kerala, India
 - 🎯 Aspiring Data Analyst
@@ -247,15 +246,9 @@ Each subject folder will contain its own `README.md`, source code, assignments, 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/arya-prasanth">
-    <img src="https://img.shields.io/badge/GitHub-arya--prasanth-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/arya-pl/">
-    <img src="https://img.shields.io/badge/LinkedIn-Arya%20P%20L-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/a_ry.x/">
-    <img src="https://img.shields.io/badge/Instagram-@a__ry.x-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<a href="https://github.com/YOUR-USERNAME">github</a> &nbsp;✧&nbsp;
+<a href="https://www.linkedin.com/in/arya-pl/">linkedin</a> &nbsp;✧&nbsp;
+<a href="https://www.instagram.com/a_ry.x/">instagram</a>
 </p>
 
 <p align="center">⭐ If you find this repository helpful, feel free to star it!</p>
