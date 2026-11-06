@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
   <img src="https://img.shields.io/badge/M.Sc.-Computer%20Science%20(Data%20Analytics)-blue" />
   <img src="https://img.shields.io/badge/Total%20Credits-80-green" />
-  <img src="https://img.shields.io/badge/Club-CSTAR-purple" />
 </p>
 
 <p align="center"><i>"From raw data to real insight, one commit at a time."</i></p>
@@ -154,15 +153,9 @@ Sem IV  →  Mastery          (Deep Learning · Elective · Viva · Main Project
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/arya-prasanth">
-    <img src="https://img.shields.io/badge/GitHub-arya--prasanth-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/arya-pl/">
-    <img src="https://img.shields.io/badge/LinkedIn-Arya%20P%20L-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/a_ry.x/">
-    <img src="https://img.shields.io/badge/Instagram-@a__ry.x-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<a href="https://github.com/YOUR-USERNAME">github</a> &nbsp;✧&nbsp;
+<a href="https://www.linkedin.com/in/arya-pl/">linkedin</a> &nbsp;✧&nbsp;
+<a href="https://www.instagram.com/a_ry.x/">instagram</a>
 </p>
 
 <p align="center">⭐ If you find this repository helpful, feel free to star it!</p>
