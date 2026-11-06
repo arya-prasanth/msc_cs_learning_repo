@@ -1,5 +1,5 @@
 <h1 align="center">🎓 M.Sc. Computer Science (Data Analytics)</h1>
-<h3 align="center"> printf("hello, world 🌏︎ ");</h3>
+<h3 align="center">turning rows & columns into insights 📊</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
