@@ -128,8 +128,8 @@ Sem IV  →  Mastery          (Deep Learning · Elective · Viva · Main Project
 | CSDA306 | Internet of Things | Lab | 2 |
 
 **📌 Elective I options:**
-- CSDA303(2): Image Mining and Computer Vision
-- CSDA303(3): Financial Analysis Using Tools
+- CSDA303(1): Image Mining and Computer Vision
+- CSDA303(2): Financial Analysis Using Tools
 
 </details>
 
@@ -178,8 +178,6 @@ msc-learning-repository/
 │   ├── CSDA301-Data-Visualization-Tableau/
 │   ├── CSDA302-Big-Data-Analytics/
 │   ├── CSDA303-Elective-I/
-│   │   ├── Image-Mining-and-Computer-Vision/
-│   │   └── Financial-Analysis-Using-Tools/
 │   ├── CSDA304-Business-Modelling-Applied-Analytics-Python/
 │   ├── CSDA305-Full-Stack-Development/
 │   └── CSDA306-Internet-of-Things/
@@ -187,8 +185,6 @@ msc-learning-repository/
 ├── Semester-4/
 │   ├── CSDA401-Deep-Learning/
 │   ├── CSDA402-Elective-II/
-│   │   ├── Natural-Language-Processing/
-│   │   └── Soft-Computing-and-Genetic-Algorithms/
 │   ├── CSDA403-Viva-Voce-Preparation/
 │   └── CSDA404-Main-Project/
 │
