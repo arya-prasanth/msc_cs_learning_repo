@@ -140,7 +140,7 @@ Sem IV  →  Mastery          (Deep Learning · Elective · Viva · Main Project
 ## 🎓 About Me
 - 🎓 M.Sc. Computer Science (Data Analytics), Rajagiri College of Social Sciences (2026–2028)
 - 🎓 BCA, Christ Nagar College (2022–2025)
-- 🎓 DCA (Diploma in Computer Applications), C-DIT (2022-2023)
+- 🎓 DCA, C-DIT (2022-2023)
 - 💼 Previously worked as a Process Associate at Prochant India
 - 📍 Kochi, Kerala, India
 - 🎯 Aspiring Data Analyst / Product Analyst
