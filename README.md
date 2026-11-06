@@ -79,7 +79,7 @@ Sem IV  →  Mastery          (Deep Learning · Elective · Viva · Main Project
 ---
 
 ## 📚 Course Structure
-*Click a semester to expand it. Course names link to their folders.*
+*Click a semester to expand it.*
 
 <details>
 <summary><b>📘 Semester I (21 Credits)</b></summary>
