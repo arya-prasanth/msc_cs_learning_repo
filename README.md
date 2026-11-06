@@ -94,22 +94,29 @@ Sem IV  →  Mastery          (Deep Learning · Elective · Viva · Main Project
 |------|-------------|------|---------|
 | CSDA301 | Data Visualization with Tableau | Core | 3 |
 | CSDA302 | Big Data Analytics | Core | 4 |
-| CSDA303(x) | Elective I | Elective | 4 |
+| CSDA303 | Elective I (choose one, see below) | Elective | 4 |
 | CSDA304 | Business Modelling & Applied Analytics Using Python | Core | 3 |
 | CSDA305 | Full Stack Development | Lab | 3 |
 | CSDA306 | Internet of Things | Lab | 2 |
+
+**Elective I options:**
+- CSDA303(2): Image Mining and Computer Vision
+- CSDA303(3): Financial Analysis Using Tools
 
 ### 📕 Semester IV (20 Credits)
 
 | Code | Course Name | Type | Credits |
 |------|-------------|------|---------|
 | CSDA401 | Deep Learning | Core | 4 |
-| CSDA402(x) | Elective II | Core/Elective | 4 |
+| CSDA402 | Elective II (choose one, see below) | Elective | 4 |
 | CSDA403 | Comprehensive Viva-Voce | Exam | 2 |
 | CSDA404 | Main Project (40 working days) | Project | 10 |
 
----
+**Elective II options:**
+- CSDA402(1): Natural Language Processing
+- CSDA402(2): Soft Computing and Genetic Algorithms
 
+---
 ## 🛠 Technologies & Tools
 
 | Category | Tools |
