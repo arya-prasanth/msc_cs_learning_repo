@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
   <img src="https://img.shields.io/badge/M.Sc.-Computer%20Science%20(Data%20Analytics)-blue" />
   <img src="https://img.shields.io/badge/Total%20Credits-80-green" />
-  <img src="https://img.shields.io/badge/Club-CSTAR-purple" />
 </p>
 
 <p align="center"><i>"From raw data to real insight, one commit at a time."</i></p>
@@ -29,7 +28,7 @@ This repo is my personal learning space for the whole postgraduate journey. It h
 | 📅 **Duration** | 2026 – 2028 (4 semesters) |
 | 🏆 **Total Credits** | 80 |
 | 🎯 **Goal** | Data Analyst |
-| 🌟 **Club** | CSTAR (every Tuesday afternoon) |
+| 🌟 **Club** | CSTAR |
 
 ---
 
