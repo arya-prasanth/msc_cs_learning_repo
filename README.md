@@ -192,9 +192,6 @@ msc-learning-repository/
 ├── Notes/
 └── README.md
 ```
-
-Each subject folder will contain its own `README.md`, source code, assignments, lab programs, and notes.
-
 ---
 
 ## 🛠 Tools I'll Use
