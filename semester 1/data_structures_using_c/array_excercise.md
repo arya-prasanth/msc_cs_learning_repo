@@ -1,7 +1,4 @@
 # C Array Practice Programs
-
-This file contains 8 essential C programs demonstrating various operations on arrays, such as reading, displaying, summing, calculating average, separating odd/even numbers, counting, and finding minimum/maximum elements.
-
 ---
 
 ## 1. Read and Display an Array
