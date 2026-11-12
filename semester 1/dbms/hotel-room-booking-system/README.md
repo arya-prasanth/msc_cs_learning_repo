@@ -189,8 +189,6 @@ Use the navigation link to access the booking report.
 
 ---
 
----
-
 ## 🎯 Learning Outcomes
 
 - Understanding relational database design.
