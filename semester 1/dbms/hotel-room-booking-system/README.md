@@ -13,7 +13,6 @@ A PHP and MySQL-based web application developed as part of the **DBMS Project**.
 | **Roll Number** | 09 |
 | **Question Number** | Q9 |
 | **Database Name** | `hotel_db` |
-| **Project Type** | DBMS Project |
 
 ---
 
