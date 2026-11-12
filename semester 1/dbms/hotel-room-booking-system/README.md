@@ -189,28 +189,6 @@ Use the navigation link to access the booking report.
 
 ---
 
-## 📸 Screenshots
-
-The following screenshots demonstrate the working of the application.
-
-### 1. Booking Entry Page
-
-Displays the room availability search and booking form.
-
-![Booking Form](screenshots/booking-form.png)
-
-### 2. Booking Confirmation
-
-Displays the confirmation message after a booking is successfully saved.
-
-![Booking Confirmation](screenshots/booking-confirmation.png)
-
-### 3. Booking Report
-
-Displays booking records retrieved from the database using JOIN operations.
-
-![Booking Report](screenshots/booking-report.png)
-
 ---
 
 ## 🎯 Learning Outcomes
