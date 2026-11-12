@@ -38,12 +38,14 @@ Hotel-Room-Booking-System/
 ├── footer.php
 ├── style.css
 ├── hotel_db.sql
+├── HRBS.docx
 ├── README.md
 │
 └── screenshots/
-    ├── booking-form.png
-    ├── booking-confirmation.png
-    └── booking-report.png
+    ├── booking_form.png
+    ├── check_avail.png
+    ├── booked_success.png
+    └── booking_report.png
 ```
 
 ---
