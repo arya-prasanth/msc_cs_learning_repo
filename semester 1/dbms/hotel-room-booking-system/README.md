@@ -9,7 +9,7 @@ A PHP and MySQL-based web application developed as part of the **DBMS Project**.
 | Detail | Description |
 |---|---|
 | **Project Name** | Hotel Room Booking System |
-| **Student Name** | Arya PL |
+| **Name** | Arya PL |
 | **Roll Number** | 09 |
 | **Question Number** | Q9 |
 | **Database Name** | `hotel_db` |
