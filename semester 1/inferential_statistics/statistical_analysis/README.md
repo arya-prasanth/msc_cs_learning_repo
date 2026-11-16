@@ -58,22 +58,6 @@ Measures the strength and direction of the linear correlation between age and ap
 - P-value: 0.9879
 - **Conclusion:** Negligible positive correlation with no statistical significance.
 
-## Project Structure
-
-```text
-inferential_stat/
-│
-├── README.md
-├── inferential_statistics.R
-│
-├── data/
-│   └── Student mental health.csv
-│
-└── plots/
-    ├── regression_plot.png
-    └── correlation_plot.png
-```
-
 ## How to Run
 
 1. Clone or download this repository.
