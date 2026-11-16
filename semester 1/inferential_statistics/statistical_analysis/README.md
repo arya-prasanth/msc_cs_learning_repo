@@ -96,4 +96,4 @@ https://www.kaggle.com/datasets/shariful07/student-mental-health
 
 ---
 
-*Academic project – Inferential Statistics, Component 02.*
+*Academic project – Inferential Statistics*
